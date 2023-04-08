@@ -13,7 +13,7 @@ Docker<br>
 ## Docker詳細
 ---
 使用イメージ : openjdk:18 <br>
-※openjdk:17を使用すると xargs is not available が表示されるため18を使用 [参考](https://teratail.com/questions/q2cqw5zi4l49me)
+※ openjdk:17を使用すると xargs is not available が表示されるため18を使用 [参考](https://teratail.com/questions/q2cqw5zi4l49me)
 ## 起動方法
 ---
 - クローン
@@ -48,4 +48,4 @@ sh-4.4# sh gradlew bootRun
 
 [localhost](http://localhost:8080)に接続<br>
 <br>
-ブラウザに「Hello World!!!!!」が表示されていれば成功
+ブラウザに「Hello World」が表示されていれば成功
